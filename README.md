@@ -1,6 +1,7 @@
 # ProjectBash-Tinkerhub
 
 Problem Statement
+
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their
 manufacturing unit there and producing cars locally to give competition to their US and European
 counterparts.
@@ -12,6 +13,8 @@ Which variables are significant in predicting the price of a car
 How well those variables describe the price of a car
 Based on various market surveys, the consulting firm has gathered a large data set of different types
 of cars across the American market.
+
+
 Business Goal
 We are required to model the price of cars with the available independent variables. It will be used
 by the management to understand how exactly the prices vary with the independent variables. They
